@@ -1,0 +1,14 @@
+- Pounds
+- Crown
+- Half a crown
+- Shillings
+- Pence
+- Pennies
+- Coppers
+- Thruppence
+- Tuppence
+- HA’penny
+- Joey
+- Quid 
+- Bob
+### historical exchange rate
