@@ -6,5 +6,8 @@
 - Silk
 - Robes
 - Wigs
+- constable
+- bobby
+- coroner
 - weapons
 	- cosh
