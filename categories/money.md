@@ -8,10 +8,12 @@
 - Coppers
 - Thruppence
 - Tuppence
-- HA’penny
+- tuppeny ha'penny
+- ha’penny
 - Joey
 - Quid 
 - Bob
+
 ### historical exchange rate
 I'll search for historical data on the British pound's value expressed in today's dollars, accounting for both exchange rates and inflation over time.Based on the UK inflation data and current exchange rates, here's what £1 (one British pound) from each of those years would be worth in 2025 US dollars:
 

@@ -3,5 +3,5 @@
 * [[crime and punishment]]
 * [[getting around]]
 * [[clothing]]
-* [[london neighborhoods]]
+* [[places of note]]
 * [[counties]]

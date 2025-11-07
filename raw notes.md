@@ -57,3 +57,53 @@
 - Soviet club
 - Junior Ganymede 
 - The oldest member
+
+- Jalousies
+- Dray horse 
+- Hock
+- Fleet st 
+- Harley st
+- Scotland Yard
+- Grub st?
+- Brandy - class distinction 
+- Hoist on own petard 
+- Count 
+- Viscount
+- Testatrix
+- Five bob / shillings
+- Dowager / duchess
+- “In the late 30s”
+- A maggot for old books - wimsey
+- MP / member
+- Queer st
+- Jodphurs 
+- Biggles
+- Waistcoat
+- Fob
+- Lorgnette 
+- Pince nez
+- Monocle
+- Tatler
+- Banjolele - Jeeves 
+- Boutonnière 
+- Tweeds
+- Brogues
+- Mess jacket
+- Albert strap
+- Tattersall 
+- Take the piss
+- Chuffed
+- Beaver!
+- Pukka / sahib
+- Quai hi!
+- Tiffin
+- Tisane
+- Fortnum and mason
+- Portobello rd
+- Bloombury l
+- Written in holograph - wimsey 
+- Hat gloves and stick
+- Somerset house - wills
+- Wee dram
+- Pin-table
+- Pots of rough on the table

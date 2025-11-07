@@ -1,0 +1,4 @@
+---
+category: clothing
+tags:
+---

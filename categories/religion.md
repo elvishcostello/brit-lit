@@ -9,10 +9,12 @@
 - Bishop
 - mitre
 - Biretta
+
 ## religious calendar
 * Whitsuntide
 * Michaelmas 
 * https://en.wikipedia.org/wiki/Calendar_of_saints_(Church_of_England)
+
 ## the schism
 ### high / low
 ### garments
