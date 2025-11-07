@@ -1,0 +1,76 @@
+- Albert strap
+- Anti clockwise
+- Bags
+- Banjolele - Jeeves 
+- Beaver!
+- Biggles
+- Bloombury
+- Boutonnière 
+- Brandy - class distinction 
+- Brighton 
+- Brogues
+- Chancel
+- Chuffed
+- Claridges 
+- Count 
+- Debretts, peeeage / crockford
+- Derby - #pronunciation
+- Don
+- Dowager / duchess
+- Dray horse 
+- Fags
+- Five bob / shillings
+- Fleet st 
+- Floater / bloomer
+- Fob
+- Fortnum and mason
+- Game not worth the candle
+- Gentlemen, it’s time
+- Gin palace
+- Governor / guv
+- Grub st?
+- Harley st
+- Hat gloves and stick
+- Head master
+- Hobbled
+- Hock
+- Hoist on own petard 
+- In the picture
+- Jalousies
+- Jodphurs 
+- Lorgnette 
+- MP / member
+- Mess jacket
+- Monocle
+- More than my job is worth 
+- Pettyfoggery
+- Pin-table
+- Pince nez
+- Port, after dinner
+- Portobello rd
+- Pots of rough on the table
+- Provide evidence
+- Publican
+- Pukka / sahib
+- Purity of the turf 
+- Quai hi!
+- Queer st
+- Scotland Yard
+- Sherry/port? butlers pantry
+- Somerset house - wills
+- Spats
+- Take the piss
+- Tatler
+- Tattersall 
+- Testatrix
+- The five towns
+- Tiffin
+- Tisane
+- Tweeds
+- Viscount
+- Waistcoat
+- Wee dram
+- Whites
+- Written in holograph - wimsey 
+- maggot - _A maggot for old books - wimsey_
+- “In the late 30s”
