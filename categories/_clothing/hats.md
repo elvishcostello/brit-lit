@@ -1,11 +1,3 @@
- 
- * Gloves
-* mufti
-
-Here's a list of common hats mentioned in British novels from the 19th and 20th centuries:
-
-**Men's Hats:**
-
 **Top Hat** - Tall, cylindrical formal hat worn for evening dress, weddings, and formal daytime occasions. Essential for gentlemen in Victorian and Edwardian society.
 
 **Bowler/Derby** - Hard felt hat with rounded crown. Worn by middle-class businessmen and city workers from the 1860s onwards; less formal than a top hat.

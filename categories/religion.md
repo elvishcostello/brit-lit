@@ -24,3 +24,12 @@
 * 
 * surplice
 * chasuble - The chasuble, a vestment symbolizing Christ's yoke and seamless garment, is central to Western Christian liturgy, with its color and design conveying specific meanings for each liturgical season.
+
+## misc
+- Apse
+- Prior | Priory 
+- “Ladies church”
+- **Sexton**
+- **Vestry / vestments** 
+- **Rood screen**
+- **Cassock / beretta**

@@ -1,0 +1,3 @@
+- Public school
+- Head boy / girl
+- 'uni'

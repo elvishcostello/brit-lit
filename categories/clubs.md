@@ -1,0 +1,6 @@
+- Drones club
+- Egotists club
+- The seekers
+- Soviet club
+- Junior Ganymede 
+- The oldest member
