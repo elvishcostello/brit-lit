@@ -1,19 +1,68 @@
-- lady's maid
-- butler
-- spinster aunt
-- inspector - detective
-- constable - village constable
-- detective
-- nephew, niece
-- aunt, uncle
-- the doctor
-- private detective
+- 
+- admiral
+- adventuress
 - amateur detective
-- lord
-- lady
-- magistrate
+- apothecary, chemist
+- aunt, uncle
+- barmaid
+- barrister
+- batman
+- between-maid
+- blackguard - scoundrel
+- bluestocking
+- bobby
+- boot boy
+- butler
+- captain
+- charwoman
+- churchwarden
+- coachman - groom
+- colonel
+- confidence man - con man
+- constable - village constable
+- cook
 - coroner
-- mater
-- factotum
-- the young writer
+- country squire
+- debutante
+- detective
 - dowager
+- estate agent
+- factotum
+- footman
+- gamekeeper
+- gentleman of leisure
+- governess
+- housekeeper
+- inspector - detective
+- lady
+- lady's maid
+- land agent
+- learned counsel
+- lord
+- magistrate
+- major
+- man-about-town
+- mater / pater
+- nabob
+- nanny - nurse
+- nephew, niece
+- ostler
+- page boy
+- paid companion
+- parlourmaid
+- private detective
+- privy counselor 
+- publican
+- remittance man
+- schoolmaster - headmaster
+- scullery maid
+- sexton
+- solicitor
+- spinster aunt
+- the doctor
+- the young writer
+- tutor
+- valet
+- vicar - rector - curate
+- ward
+- widow
