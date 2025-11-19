@@ -1,68 +1,152 @@
-- 
+
+- actor-manager
 - admiral
 - adventuress
+- agent (literary or theatrical)
+- alderman
 - amateur detective
 - apothecary, chemist
+- archdeacon
+- aristocratic heir / wastrel heir
 - aunt, uncle
+- bargeman
 - barmaid
+- baronette / baronet’s son
 - barrister
 - batman
+- beadle
+- bellringer
 - between-maid
 - blackguard - scoundrel
 - bluestocking
 - bobby
+- bookseller
 - boot boy
+- bootmaker / cobbler
 - butler
 - captain
+- chambermaid
 - charwoman
+- charwoman’s boy
 - churchwarden
+- clergyman’s wife
 - coachman - groom
 - colonel
+- colonel’s lady
+- companionable spinster
 - confidence man - con man
 - constable - village constable
 - cook
 - coroner
+- country doctor
 - country squire
+- curate’s wife
+- dairymaid
 - debutante
 - detective
 - dowager
+- dramatic critic
+- duchess
+- dustman
+- eccentric inventor
+- elderly retainer
 - estate agent
+- factory owner / mill owner
 - factotum
+- farmer’s wife
+- ferryman
+- fisher lass / fisherman
 - footman
+- footpad (highway robber)
 - gamekeeper
+- gamekeeper’s boy
+- gardener / head gardener
 - gentleman of leisure
+- gillie
 - governess
+- grocer
+- haberdasher
+- hall porter
+- harbourmaster
 - housekeeper
+- housemaid
+- innkeeper’s wife
 - inspector - detective
+- itinerant preacher
 - lady
+- lady of the manor
 - lady's maid
 - land agent
+- laundrymaid
 - learned counsel
+- librarian
 - lord
+- lord mayor
 - magistrate
 - major
 - man-about-town
+- manservant
 - mater / pater
+- milkman
+- minor poet
+- miscellaneous aristocrat (“a peer of the realm”)
 - nabob
 - nanny - nurse
 - nephew, niece
+- newspaperman / newspaperman’s editor
 - ostler
 - page boy
 - paid companion
+- parlour boarder
 - parlourmaid
+- parson’s daughter
+- pastry-cook
+- pensioned sergeant-major
+- police sergeant
+- postmistress
+- potboy
 - private detective
 - privy counselor 
+- professor
 - publican
+- railway porter
+- rector’s wife
 - remittance man
+- retired Indian Army officer
+- retired sea captain
+- schoolgirl
 - schoolmaster - headmaster
 - scullery maid
+- seamstress
 - sexton
+- shopgirl
 - solicitor
 - spinster aunt
+- stable boy
+- stationmaster
+- steward
+- subaltern
+- tailor
+- tea-shop proprietor
+- the colonel’s nephew
 - the doctor
+- the village gossip
 - the young writer
+- titled widow
+- tobacconist
+- tobacconist’s assistant
+- tramp
 - tutor
+- under-gardener
+- usher
 - valet
+- verger
 - vicar - rector - curate
+- village nurse
 - ward
+- washerwoman
+- watchmaker
+- wharfinger
 - widow
+- widower
+- yeoman farmer
