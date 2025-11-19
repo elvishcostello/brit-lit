@@ -6,6 +6,7 @@
 - alderman
 - amateur detective
 - apothecary, chemist
+- attorney general
 - archdeacon
 - aristocratic heir / wastrel heir
 - aunt, uncle
@@ -46,6 +47,7 @@
 - detective
 - dowager
 - dramatic critic
+- dress maker
 - duchess
 - dustman
 - eccentric inventor
@@ -56,6 +58,7 @@
 - farmer’s wife
 - ferryman
 - fisher lass / fisherman
+- fish monger
 - footman
 - footpad (highway robber)
 - gamekeeper
@@ -68,10 +71,12 @@
 - haberdasher
 - hall porter
 - harbourmaster
+- head boy / girl
 - housekeeper
 - housemaid
 - innkeeper’s wife
 - inspector - detective
+- iron monger
 - itinerant preacher
 - lady
 - lady of the manor
@@ -80,10 +85,12 @@
 - laundrymaid
 - learned counsel
 - librarian
+- literary critic
 - lord
 - lord mayor
 - magistrate
 - major
+- man of business
 - man-about-town
 - manservant
 - mater / pater
@@ -94,6 +101,7 @@
 - nanny - nurse
 - nephew, niece
 - newspaperman / newspaperman’s editor
+- oddbod
 - ostler
 - page boy
 - paid companion
@@ -150,3 +158,6 @@
 - widow
 - widower
 - yeoman farmer
+- medium
+- nurse 
+- nanny

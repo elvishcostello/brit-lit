@@ -1,51 +1,81 @@
+
+- According to Crocker
+- Agony columns
 - Albert strap
 - Anti clockwise
 - Bags
 - Banjolele - Jeeves 
+- barrister
 - Beaver!
 - Biggles
+- Blindfold in a pea souper
 - Bloombury
+- Blotting pad
+- blunderbuss
 - Boutonnière 
 - Brandy - class distinction 
 - Brighton 
 - Brogues
+- came a cropper
 - Chancel
 - Chuffed
 - Claridges 
+- Clark / clerk
+- cook - always in a temper
 - Count 
+- curiouser and curiouser 
+- Deal table 
 - Debretts, peeeage / crockford
 - Derby - #pronunciation
 - Don
 - Dowager / duchess
 - Dray horse 
 - Fags
+- Fetch whiskey from the pub
 - Five bob / shillings
 - Fleet st 
 - Floater / bloomer
 - Fob
 - Fortnum and mason
+- foundling
+- Gaspers
 - Game not worth the candle
+- Gentleman’s gentleman
 - Gentlemen, it’s time
 - Gin palace
+- Goose flesh
 - Governor / guv
 - Grub st?
+- Guy fawkes
 - Harley st
 - Hat gloves and stick
 - Head master
 - Hobbled
 - Hock
 - Hoist on own petard 
+- “In the late 30s”
 - In the picture
 - Jalousies
+- Jarndyce and Jarndyce
 - Jodphurs 
+- Judge measured for a black cap
 - Lorgnette 
-- MP / member
+- maggot - _A maggot for old books - wimsey_
+- mail-coach
+- Mallacq stick?
+- Man of business
+- Mater / pater 
 - Mess jacket
 - Monocle
 - More than my job is worth 
+- Morning nosebag
+- MP / member
+- Old ‘ma’ thingummy
+- One of the waiter Johnnie’s
+- panto - pantomine
 - Pettyfoggery
-- Pin-table
 - Pince nez
+- Pin-table
 - Port, after dinner
 - Portobello rd
 - Pots of rough on the table
@@ -55,22 +85,28 @@
 - Purity of the turf 
 - Quai hi!
 - Queer st
+- Saloon bar / 4 rail business ?
+- saloon / public room
 - Scotland Yard
 - Sherry/port? butlers pantry
 - Somerset house - wills
 - Spats
+- Spot of bother
+- subscription
+- Succes d’estime
 - Take the piss
+- Taking a pew
 - Tatler
 - Tattersall 
+- Temple Bar - _Temple Bar was the principal ceremonial entrance to the City of London_ from the City of Westminster.
 - Testatrix
 - The five towns
 - Tiffin
 - Tisane
 - Tweeds
+- Unpleasantness 
 - Viscount
 - Waistcoat
 - Wee dram
 - Whites
 - Written in holograph - wimsey 
-- maggot - _A maggot for old books - wimsey_
-- “In the late 30s”
