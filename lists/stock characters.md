@@ -1,0 +1,19 @@
+- lady's maid
+- butler
+- spinster aunt
+- inspector - detective
+- constable - village constable
+- detective
+- nephew, niece
+- aunt, uncle
+- the doctor
+- private detective
+- amateur detective
+- lord
+- lady
+- magistrate
+- coroner
+- mater
+- factotum
+- the young writer
+- dowager
