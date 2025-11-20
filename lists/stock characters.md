@@ -81,11 +81,13 @@
 - lady
 - lady of the manor
 - lady's maid
+- laird
 - land agent
 - laundrymaid
 - learned counsel
 - librarian
 - literary critic
+- Locum
 - lord
 - lord mayor
 - magistrate

@@ -60,6 +60,7 @@
 - Jodphurs 
 - Judge measured for a black cap
 - Lorgnette 
+- loyal retainers
 - maggot - _A maggot for old books - wimsey_
 - mail-coach
 - Mallacq stick?
@@ -110,3 +111,11 @@
 - Wee dram
 - Whites
 - Written in holograph - wimsey 
+- Jaffa Cakes
+- sylabub
+- chinoiserie
+- ormolu
+* deal table
+* aspidistra - _keep the aspisistra flying_, George Orwell #title 
+* drag / coach - #transportation
+- Fly - #transportation 
