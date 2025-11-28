@@ -1,8 +1,11 @@
 
+- 
 - According to Crocker
-- Agony columns
+- Advertisement in Papers
+- Agony column
 - Albert strap
 - Anti clockwise
+* aspidistra - _keep the aspisistra flying_, George Orwell #title 
 - Bags
 - Banjolele - Jeeves 
 - barrister
@@ -18,6 +21,7 @@
 - Brogues
 - came a cropper
 - Chancel
+- chinoiserie
 - Chuffed
 - Claridges 
 - Clark / clerk
@@ -25,21 +29,24 @@
 - Count 
 - curiouser and curiouser 
 - Deal table 
+* deal table
 - Debretts, peeeage / crockford
 - Derby - #pronunciation
 - Don
 - Dowager / duchess
+* drag / coach - #transportation
 - Dray horse 
 - Fags
 - Fetch whiskey from the pub
 - Five bob / shillings
 - Fleet st 
 - Floater / bloomer
+- Fly - #transportation 
 - Fob
 - Fortnum and mason
 - foundling
-- Gaspers
 - Game not worth the candle
+- Gaspers
 - Gentleman’s gentleman
 - Gentlemen, it’s time
 - Gin palace
@@ -55,6 +62,7 @@
 - Hoist on own petard 
 - “In the late 30s”
 - In the picture
+- Jaffa Cakes
 - Jalousies
 - Jarndyce and Jarndyce
 - Jodphurs 
@@ -73,6 +81,7 @@
 - MP / member
 - Old ‘ma’ thingummy
 - One of the waiter Johnnie’s
+- ormolu
 - panto - pantomine
 - Pettyfoggery
 - Pince nez
@@ -95,6 +104,7 @@
 - Spot of bother
 - subscription
 - Succes d’estime
+- sylabub
 - Take the piss
 - Taking a pew
 - Tatler
@@ -102,6 +112,7 @@
 - Temple Bar - _Temple Bar was the principal ceremonial entrance to the City of London_ from the City of Westminster.
 - Testatrix
 - The five towns
+- The Raj
 - Tiffin
 - Tisane
 - Tweeds
@@ -110,12 +121,4 @@
 - Waistcoat
 - Wee dram
 - Whites
-- Written in holograph - wimsey 
-- Jaffa Cakes
-- sylabub
-- chinoiserie
-- ormolu
-* deal table
-* aspidistra - _keep the aspisistra flying_, George Orwell #title 
-* drag / coach - #transportation
-- Fly - #transportation 
+- Written in holograph - wimsey
