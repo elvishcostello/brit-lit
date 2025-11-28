@@ -68,6 +68,7 @@
 - gillie
 - governess
 - grocer
+- guru
 - haberdasher
 - hall porter
 - harbourmaster

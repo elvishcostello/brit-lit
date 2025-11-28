@@ -1,6 +1,6 @@
 * [[money]]
 * [[religion]]
-* [[crime and punishment]]
+* [[crime-and-punishment]]
 * [[getting around]]
 * [[clothing]]
 * [[places of note]]

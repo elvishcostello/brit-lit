@@ -1,6 +1,9 @@
 
+- advertisement
 - Blackguard
-- St. John-Smythe
-- Mainwaring
-- I schedule, quinoa, advertisement, privacy
 - Gilet
+- Mainwaring
+- privacy
+- quinoa
+- schedule
+- St. John-Smythe
