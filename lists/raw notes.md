@@ -1,42 +1,66 @@
 
-- 
+
+- 1st class ticket - etc
+- Abominable crime of buggery - Ernest Boulton
 - According to Crocker
 - Advertisement in Papers
 - Agony column
 - Albert strap
+- A living
 - Anti clockwise
+- Aquiline nose
+- Aspidistra flying
 * aspidistra - _keep the aspisistra flying_, George Orwell #title 
+- A woman’s “work”
 - Bags
+- Bailiff, debtor’s prison
 - Banjolele - Jeeves 
+- Barouche 
 - barrister
-- Beaver!
+- beaver!
+- Bestiary 
+- Best room 
 - Biggles
 - Blindfold in a pea souper
+- Bloater paste 
 - Bloombury
-- Blotting pad
+- Blotting pad (source of clues)
 - blunderbuss
 - Boutonnière 
 - Brandy - class distinction 
 - Brighton 
-- Brogues
+- Brogues (brown)
+- Brougham
 - came a cropper
-- Chancel
+- Capability brown
+- Chaise and 4
+- Chancel 
+- Chantry
 - chinoiserie
+- Christopher wren
 - Chuffed
 - Claridges 
-- Clark / clerk
+- Clark / clerk #pronunciation 
+- Commoner
 - cook - always in a temper
+- Council flats
 - Count 
 - curiouser and curiouser 
 - Deal table 
 * deal table
 - Debretts, peeeage / crockford
+- Deed poll
 - Derby - #pronunciation
+- Dog cart etc
 - Don
 - Dowager / duchess
 * drag / coach - #transportation
+- Draper 
 - Dray horse 
+- Escritoire - hidden compartment 
+- Estate houses
 - Fags
+- Fakir
 - Fetch whiskey from the pub
 - Five bob / shillings
 - Fleet st 
@@ -46,10 +70,12 @@
 - Fortnum and mason
 - foundling
 - Game not worth the candle
+- Gaol
 - Gaspers
 - Gentleman’s gentleman
 - Gentlemen, it’s time
 - Gin palace
+- Goon show
 - Goose flesh
 - Governor / guv
 - Grub st?
@@ -57,50 +83,81 @@
 - Harley st
 - Hat gloves and stick
 - Head master
+- Heraldry 
+- High st
 - Hobbled
 - Hock
 - Hoist on own petard 
 - “In the late 30s”
 - In the picture
+- Inverness cloak
 - Jaffa Cakes
 - Jalousies
 - Jarndyce and Jarndyce
 - Jodphurs 
 - Judge measured for a black cap
+- Landau
 - Lorgnette 
 - loyal retainers
+- Lych gate
 - maggot - _A maggot for old books - wimsey_
 - mail-coach
 - Mallacq stick?
 - Man of business
+- Market day
 - Mater / pater 
 - Mess jacket
+- Mi5 / Mi6
 - Monocle
-- More than my job is worth 
+- Mongomery - Monty, his part in my war
+- More than my job is worth #cliche
 - Morning nosebag
 - MP / member
+- Mutton
+- Nightcap 
+- Number 10 downing st
+- Old harry
 - Old ‘ma’ thingummy
+- Omnibus
 - One of the waiter Johnnie’s
 - ormolu
+- Paid companion
 - panto - pantomine
+- Pensions
 - Pettyfoggery
 - Pince nez
 - Pin-table
+- Poltice - bandage?
 - Port, after dinner
 - Portobello rd
+- Post chaise
 - Pots of rough on the table
 - Provide evidence
 - Publican
 - Pukka / sahib
+- Punting 
 - Purity of the turf 
 - Quai hi!
 - Queer st
+- Qui hai!
+- Reading Gaol - c.33 Wilde, ballad of 
+- Return ticket
+- Rockery
+- Rood screen , loft 
+- Rooming House
+- Rugger 
+- Rustics - Seth & Reuben 
 - Saloon bar / 4 rail business ?
 - saloon / public room
+- Sampler (motto)
 - Scotland Yard
+- Scullery
+- Settle ?
 - Sherry/port? butlers pantry
+- Shufti 
 - Somerset house - wills
 - Spats
+- Spiritualism
 - Spot of bother
 - subscription
 - Succes d’estime
@@ -109,16 +166,25 @@
 - Taking a pew
 - Tatler
 - Tattersall 
+- Tea shop
 - Temple Bar - _Temple Bar was the principal ceremonial entrance to the City of London_ from the City of Westminster.
 - Testatrix
 - The five towns
+- The old Adam 
 - The Raj
+- The tube
 - Tiffin
 - Tisane
 - Tweeds
+- Two seater
 - Unpleasantness 
+- vellum blotter
+- Vestry 
+- Vicarage, rectory
 - Viscount
 - Waistcoat
 - Wee dram
+- Whitehall 
 - Whites
+- Windward isles
 - Written in holograph - wimsey
