@@ -338,7 +338,8 @@
 * Western Isles (Outer Hebrides) - Stereotyped as Gaelic-speaking crofters, religious. Known for: Harris Tweed, crofting, Gaelic language stronghold, Sabbath observance, peat cutting. #counties
 * West Midlands - Stereotyped as Brummie industrialists with distinctive accent. Known for: manufacturing, cars (historic), Cadbury chocolate, curry (Balti Triangle). #counties
 - Whitehall 
-- Whites
+- Whites Club
+- Widdershins
 * Wiltshire - Seen as rural, mysterious (Stonehenge), military. Known for: Stonehenge, military bases (Salisbury Plain), pigs and bacon. #counties
 - Windward isles
 * Witness box #crime-and-punishment

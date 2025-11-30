@@ -1,7 +1,0 @@
-* [[money]]
-* [[religion]]
-* [[crime-and-punishment]]
-* [[getting around]]
-* [[clothing]]
-* [[places of note]]
-* [[counties]]

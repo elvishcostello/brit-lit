@@ -7,3 +7,4 @@
 - quinoa
 - schedule
 - St. John-Smythe
+- Magdalene college
