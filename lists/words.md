@@ -1,6 +1,4 @@
 
-
-
 - 1st class ticket - etc
 * Aberdeenshire/Aberdeen City - Stereotyped as dour, thrifty "Teuchters" (rural folk) or oil-rich. Known for: North Sea oil and gas, granite (the "Granite City"), fishing, Aberdeen Angus cattle. #counties
 - Abominable crime of buggery - Ernest Boulton
