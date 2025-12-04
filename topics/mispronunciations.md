@@ -1,10 +1,71 @@
 
-- advertisement
-- Blackguard
-- Gilet
-- Mainwaring
-- privacy
-- quinoa
-- schedule
-- St. John-Smythe
-- Magdalene college
+
+- **Adult** - "AD-ult" (not "uh-DULT")
+- **Advertisement** - "ad-VER-tiss-ment" (stress on second syllable, with a clear "tiss" not "tize")
+- **Alnwick** - "AN-ick"
+- **Aluminium** - "al-yoo-MIN-ee-um" (extra syllable)
+- **Basil** - "BAZ-il" (not "BAY-zil")
+- **Beauchamp** - "BEE-cham"
+- **Beaufort** - "BO-fort" (not "BO-fort" with emphasis)
+- **Belvoir** - "BEE-vor"
+- **Berkshire** - "BARK-shur" (not "BERK-shyer")
+- **Beta** - "BEE-ta" (not "BAY-ta")
+- **Bicester** - "BISS-ter"
+- **Blackguard** - "BLAG-ard" (the "ck" and "gu" essentially disappear)
+- **Bosun** (boatswain) - "BO-sun"
+- **Buoy** - "BOY" (not "BOO-ee")
+- **Cholmeley** - "CHUM-lee"
+- **Cholmondeley** - "CHUM-lee"
+- **Cirencester** - "SIGH-ren-ses-ter" or "SISS-i-ter"
+- **Clerk** - "CLARK" (not "KLERK")
+- **Cockburn** - "CO-burn"
+- **Composite** - "COM-poz-it" (not "com-POZ-it")
+- **Controversy** - "kon-TROV-er-sy" (stress on second syllable)
+- **Dalziel** - "dee-ELL" or "DAY-ul"
+- **Derby** - "DAR-bee" (not "DER-bee")
+- **Dynasty** - "DIN-as-tee" (not "DY-nas-tee")
+- **Edinburgh** - "ED-in-bur-uh" (Americans often say "ED-in-berg")
+- **Featherstonehaugh** - "FAN-shaw" (though some families say "FEE-stun-haw")
+- **Fillet** - "FILL-it" (not "fill-AY")
+- **Forecastle** - "FOKE-sul"
+- **Garage** - "GAR-idge" (not "gar-AHJ")
+- **Gilet** - "ZHEE-lay" (French pronunciation retained)
+- **Gloucester** - "GLOSS-ter"
+- **Godmanchester** - "GUM-ster"
+- **Greenwich** - "GREN-itch" (not "GREEN-witch")
+- **Grosvenor** - "GROVE-ner"
+- **Gunwale** - "GUN-ul"
+- **Harass** - "HAR-ass" (not "har-ASS")
+- **Herbs** - "HERBS" (they pronounce the H)
+- **Laboratory** - "lab-OR-uh-tree" (vs. American "LAB-ruh-tor-ee")
+- **Leicester** - "LESS-ter" (not "Ly-SESS-ter")
+- **Leisure** - "LEZH-ure" (not "LEE-zhure")
+- **Leveson-Gower** - "LOO-son-GOR"
+- **Lieutenant** - "lef-TEN-ant" (not "loo-TEN-ant")
+- **Magdalene College** - "MAWD-lin" (rhymes with "maudlin" - the emotion word actually derives from this pronunciation) - The Magdalene one is particularly notable since both Oxford and Cambridge have Magdalene/Magdalen colleges, and both use the "MAWD-lin" pronunciation despite different spellings. Americans encountering this in Dorothy Sayers or other Oxford novels would naturally say "MAG-duh-leen"!
+- **Mainwaring** - "MAN-er-ing" (the "waring" compresses dramatically)
+- **Marylebone** - "MAR-lee-bun"
+- **Menzies** - "MING-iss"
+- **Missile** - "MISS-ile" (not "MISS-ul")
+- **Niche** - "NEESH" (not "NITCH")
+- **Norwich** - "NOR-idge"
+- **Oregano** - "or-egg-AH-no"
+- **Privacy** - "PRIV-uh-see" (short "i" sound, not "PRY-vuh-see")
+- **Quinoa** - "KEEN-wah" (two syllables, not three)
+- **Ralph** - often "RAFE" (especially in upper-class usage)
+- **Ruthven** - "RIV-en"
+- **Schedule** - "SHED-yool" or "SHED-jool" (not "SKED-jool")
+- **Scone** - "SKON" (rhymes with "gone") - though this is regionally debated even in Britain!
+- **Shone** - "SHON" (rhymes with "gone," not "SHONE" like "tone")
+- **Solder** - "SOD-er" (they pronounce the L)
+- **Southwark** - "SUTH-uck"
+- **St. John-Smythe** - "Sin-Jin-Smith" (exactly as you have it!)
+- **Tomato** - "tom-AH-toe"
+- **Towcester** - "TOW-ster"
+- **Tyrwhitt** - "TIR-it"
+- **Vase** - "VAHZ" (not "VASE")
+- **Vitamin** - "VIT-uh-min" (not "VY-tuh-min")
+- **Warwick** - "WOR-ick"
+- **Worcester** - "WOO-ster" (not "WOR-chess-ter")
+- **Wymondham** - "WIND-um"
+- **Yoghurt** - "YOG-urt" (not "YO-gurt")
