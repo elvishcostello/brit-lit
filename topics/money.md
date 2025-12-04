@@ -40,3 +40,6 @@ I'll search for historical data on the British pound's value expressed in today'
 - The purchasing power declined most dramatically between 1925-1975, likely due to the wars and post-war inflation
 
 Note: These figures represent the purchasing power of £1 adjusted for inflation in both currencies, showing what goods and services that pound could buy expressed in today's dollars.
+
+### money topics
+- Settlements, jointures, pin money, allowances
