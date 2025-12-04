@@ -1,0 +1,4 @@
+- Noblesse Oblige (Mitford et al)
+- Alan S.C. Ross - "Linguistic Class-Indicators in Present-Day English"
+- Mitford: "The English Aristocracy" for _Encounter_ magazine in 1955
+- 
