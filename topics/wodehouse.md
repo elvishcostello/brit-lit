@@ -1,4 +1,3 @@
-Absolutely! Bertie Wooster is a linguistic goldmine. Here are some favorites:
 
 **BERTIE'S VERBS FOR MENTAL/EMOTIONAL STATES:**
 

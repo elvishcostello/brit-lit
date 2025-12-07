@@ -1,15 +1,15 @@
 
 - 1st class ticket - etc
 * Aberdeenshire/Aberdeen City - Stereotyped as dour, thrifty "Teuchters" (rural folk) or oil-rich. Known for: North Sea oil and gas, granite (the "Granite City"), fishing, Aberdeen Angus cattle. #counties
-- Abominable crime of buggery - Ernest Boulton
+- Abominable crime of buggery - Wilde, Ernest Boulton
 - According to Crocker
-- Advertisement in Papers
+- Advertisement - favoured plot device in Wimsey and Holmes
 - Agony column
 - Albert strap
 - A living
 * Anglesey (Ynys Môn) - Seen as island farmers, Welsh-speaking. Known for: farming, being "Mam Cymru" (Mother of Wales) for grain, tourism, Menai bridges. #counties
 * Angus - Seen as agricultural and down-to-earth. Known for: Arbroath smokies (smoked haddock), farming, soft fruit, and Angus beef. #counties
-- Anti clockwise
+- Anti-clockwise #idioms--expressions 
 - Aquiline nose
 * Area sneak (burglar through servants' entrance) #crime-and-punishment
 * Argyll and Bute - Viewed as remote Highlanders and islanders. Known for: whisky distilling, seafood, tourism, stunning scenery, and Gaelic culture. #counties
@@ -21,7 +21,7 @@
 - Bags
 - Bailiff, debtor’s prison
 - Banjolele - Jeeves 
-- Barouche 
+- Barouche #transportation 
 - barrister
 * Barrister (courtroom advocate) #crime-and-punishment
 * Barsetshire - Anthony Trollope's creation (1855 onwards), later revived by Angela Thirkell. West Country location, known for its cathedral city and clerical politics. #fictional-counties
