@@ -1,7 +1,7 @@
 
 - 1st class ticket - etc
 * Aberdeenshire/Aberdeen City - Stereotyped as dour, thrifty "Teuchters" (rural folk) or oil-rich. Known for: North Sea oil and gas, granite (the "Granite City"), fishing, Aberdeen Angus cattle. #counties
-- Abominable crime of buggery - Wilde, Ernest Boulton
+- Abominable crime of buggery - Oscar Wilde, Ernest Boulton
 - According to Crocker
 - Advertisement - favoured plot device in Wimsey and Holmes
 - Agony column
@@ -16,6 +16,7 @@
 - Aspidistra flying
 * aspidistra - _keep the aspisistra flying_, George Orwell #title 
 * Assizes (periodic criminal courts in counties) #crime-and-punishment
+- aught / naught
 - A woman’s “work”
 * Ayrshire - Stereotyped as Burns Country folk, agricultural. Known for: Robert Burns heritage, Ayrshire potatoes, dairy farming, Ayrshire bacon. #counties
 - Bags
@@ -58,7 +59,7 @@
 * Caerphilly - Stereotyped as Valleys miners with strong accents. Known for: Caerphilly cheese, coal mining heritage, castles. #counties
 * Cambridgeshire - Seen as intellectual and academic. Known for: Cambridge University, technology/science research, fen farming, and punting. #counties
 - came a cropper
-- Capability brown
+- Capability Brown
 * Cardiff/Vale of Glamorgan - Seen as cosmopolitan, "not really Welsh" by some. Known for: capital city, rugby (Principality Stadium), coal export heritage, media, government. #counties
 * Carmarthenshire - Viewed as rural, Welsh-speaking farmers. Known for: farming, Welsh language, Dylan Thomas connections, being very traditionally Welsh. #counties
 * Ceredigion - Stereotyped as "Cardis" - thrifty, Welsh-speaking sheep farmers. Known for: sheep farming, Welsh language stronghold, Aberystwyth University, being very rural. #counties
