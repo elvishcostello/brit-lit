@@ -232,3 +232,11 @@ These writers are gold for your dictionary because they're packed with:
 - Wartime and post-war British life
 
 They capture everyday British life in a way the "grander" writers sometimes don't.
+
+DP added:
+- somerset maughm
+- graham greene
+- John le carre
+
+Memoirs
+- david niven
