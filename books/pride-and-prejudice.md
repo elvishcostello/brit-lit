@@ -23,7 +23,7 @@
 * estate of two thousand a year - property yielding annual income #legal
 * footman - male servant #occupations
 * give over thinking of - stop thinking about #idioms
-* giving consequence to - paying attention to #social-events--entertainment
+* giving consequence to - paying attention to #class-distinction #idioms 
 * good breeding - good manners/upbringing #class-distinction
 * good fortune - wealth/income #class-distinction 
 * hack chaise - hired carriage (not one's own) #idioms
@@ -50,12 +50,12 @@
 * red coat - British soldier's uniform #military
 * regimentals - military uniform #military
 * respectable line of trade - acceptable business #commerce
-* Scotch and Irish airs - Scottish and Irish songs #social-events--entertainment
+* Scotch and Irish airs - Scottish and Irish songs #music
 * stand up with - dance with (as partners) #social-practices
 * stiles - steps over fences in countryside #geography
 * St. James's - St. James's Palace (royal court) #class-distinction
 * taken - rented/leased (a house) #legal
-* the instrument - piano/pianoforte #social-events--entertainment
+* Instrument , The- piano/pianoforte #music 
 * tolerable fortune - modest wealth #commerce
 * to-morrow fortnight - two weeks from tomorrow #idioms
 * twelvemonth - one year #idioms

@@ -1,5 +1,6 @@
 
 
+
 - 1st class ticket - etc
 * Aberdeenshire/Aberdeen City - Stereotyped as dour, thrifty "Teuchters" (rural folk) or oil-rich. Known for: North Sea oil and gas, granite (the "Granite City"), fishing, Aberdeen Angus cattle. #geography
 - Abominable crime of buggery - Oscar Wilde, Ernest Boulton
@@ -17,9 +18,6 @@
 * Aspidistra - _keep the aspisistra flying_, George Orwell #novel 
 * Assizes, The - (periodic criminal courts in counties) #legal
 - aught / naught
-- naught / aught
-- Work, A woman’s “work”, typically needlework or "patchwork"
-- Patchwork - quilting
 * Ayrshire - Stereotyped as Burns Country folk, agricultural. Known for: Robert Burns heritage, Ayrshire potatoes, dairy farming, Ayrshire bacon. #geography
 - Bags #clothing 
 - Bailiff, debtor’s prison
@@ -39,7 +37,6 @@
 * Biretta - Square cap with three or four ridges on top, sometimes with a pompom. Worn by Roman Catholic priests, particularly during Mass. #eclesiastical #clothing
 * Blaenau Gwent - Stereotyped as Valleys folk, mining communities. Known for: coal mining heritage, male voice choirs, strong working-class identity. #geography
 - Blindfold in a pea souper
-- Pea Souper, dense fog
 - Bloater paste 
 - Bloombury
 - Blotting pad (source of clues)
@@ -72,6 +69,7 @@
 * Chambers (barrister's office) #legal
 - Chancel 
 - Chantry
+* Chasubel #clothing #eclesiastical 
 * Cheshire - Viewed as prosperous "Cheshire set" - footballers' wives territory. Known for: Cheshire cheese, salt mining, wealthy suburbs of Manchester. #geography
 - chinoiserie
 - Christopher wren
@@ -102,8 +100,10 @@
 - Derby - #pronunciation
 * Derbyshire - Viewed as down-to-earth northerners with rural charm. Known for: Peak District, Bakewell pudding, Derby porcelain, limestone quarrying. #geography
 * Devon - Stereotyped as farmers and retirees enjoying cream teas. Known for: cream teas (cream first!), cider, farming, tourism, and having a strong rural identity. #geography
+* Dickey #clothing 
 * Dock, The (where accused stands) #legal
 - Dog cart etc
+* Dog collar #clothing #eclesiastical 
 - Don
 * Dorset - Seen as genteel, rural, and traditional. Known for: Jurassic Coast fossils, Thomas Hardy connections, Blue Vinny cheese, and being very "olde worlde." #geography
 - Dowager / duchess
@@ -126,6 +126,7 @@
 * Falkirk - Stereotyped as industrial, working-class. Known for: the Kelpies, Falkirk Wheel, industrial heritage, proximity to central belt. #geography
 * Fence (receiver of stolen goods) #legal
 - Fetch whiskey from the pub
+* Fichu #clothing 
 * Fife - Called "the Kingdom" - seen as proud, distinctive, working-class. Known for: coal mining heritage, fishing villages, golf (St Andrews), and saying they're from "the Kingdom." #geography
 - Five bob / shillings
 - Five towns, The - Arnold Bennet
@@ -136,6 +137,7 @@
 - Floater / bloomer
 - Fly - #transportation 
 - Fob
+* fob #clothing 
 - Fortnum and mason
 - foundling
 - Game not worth the candle
@@ -143,9 +145,11 @@
 - Gaspers
 - Gentleman’s gentleman
 - Gentlemen, it’s time
+* gilet #clothing 
 - Gin palace
 * Glasgow/Greater Glasgow - Stereotyped as tough, friendly "hardmen" with sharp wit. Known for: shipbuilding heritage, "Glasgow kiss," engineering, deep-fried Mars bars, and being Scotland's largest city. #geography
 * Gloucestershire - Seen as rural, well-spoken West Country folk. Known for: Cotswolds tourism, Double Gloucester cheese, cheese rolling, cider. #geography
+* gloves #clothing 
 - Goon show
 - Goose flesh
 - Governor / guv
@@ -215,6 +219,7 @@
 - Morning nosebag
 - MP / member
 - Mutton
+- naught / aught
 * Neath Port Talbot - Seen as steel workers, industrial. Known for: steel works (Port Talbot), coal heritage, rugby, strong industrial identity. #geography
 * Newgate (already mentioned - most notorious, demolished 1902) #legal
 * Newport - Stereotyped as industrial, working-class, overlooked. Known for: steel, docks, being between Cardiff and Bristol, Chartist uprising. #geography
@@ -238,7 +243,10 @@
 - Paid companion
 - panto - pantomine
 * Parkhurst (Isle of Wight) #legal
+- Patchwork - quilting
+- Pea Souper, dense fog
 * Peeler/Bobby (policeman) #legal
+* Pelisse #clothing 
 * Pembrokeshire - Called "Little England Beyond Wales" - seen as less Welsh. Known for: tourism, stunning coastline, oil refineries (Milford Haven), English-speaking majority in south. #geography
 * Penal servitude #legal
 - Pensions
@@ -298,6 +306,7 @@
 - Somerset house - wills
 * Somerset - Viewed as cider-drinking farmers with rural charm. Known for: cider, Cheddar cheese, Glastonbury Festival, levels and wetlands. #geography
 - Spats
+* spencer #clothing 
 - Spiritualism
 - Spot of bother
 * Staffordshire - Seen as working-class pottery folk. Known for: The Potteries (Stoke-on-Trent), ceramics, oatcakes, Staffordshire bull terriers. #geography
@@ -336,6 +345,7 @@
 - Vicarage, rectory
 - Viscount
 - Waistcoat
+* waistcoat #clothing 
 * Wandsworth #legal
 * Warwickshire - Viewed as prosperous Midlanders with cultural heritage. Known for: Shakespeare (Stratford), Warwick Castle, market gardening. #geography
 - Wee dram
@@ -349,6 +359,7 @@
 - Windward isles
 * Witness box #legal
 * Worcestershire - Viewed as rural fruit growers and sauce makers. Known for: Worcestershire sauce, fruit growing (Vale of Evesham), Royal Worcester porcelain. #geography
+- Work, A woman’s “work”, typically needlework or "patchwork"
 * Wormwood Scrubs (The Scrubs) #legal
 * Wrexham - Stereotyped as "not properly Welsh," anglicized. Known for: brewing (Wrexham Lager), coal, proximity to England, football rather than rugby. #geography
 - Written in holograph - wimsey* Bedfordshire - Seen as quiet, middle-England folk. Known for: brick-making, market gardening, and being the birthplace of the Bedfordshire clanger (a pastry). #geography

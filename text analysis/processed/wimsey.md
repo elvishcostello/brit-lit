@@ -21,7 +21,7 @@
 * manservant - male domestic servant (Bunter) #occupations
 * my man - my valet/servant #class-distinction
 * poachers - people illegally hunting on private land #class-distinction
-* Pukka Sahib
+* Pukka Sahib #idioms
 * pumps - formal men's shoes #clothing
 * right oh! - all right/okay #idioms
 * Sahib - gentleman (from colonial India) #idioms
