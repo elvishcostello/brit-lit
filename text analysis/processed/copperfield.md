@@ -1,60 +1,60 @@
 
 * an't - dialect for "aren't" #idioms
-* best parlour - formal sitting room #household--property
+* best parlour - formal sitting room #settings 
 * biscuit - cookie/cracker #dining
 * boat-cloaks - nautical cloaks #clothing
 * bonnet - woman's hat with ties #clothing
 * Brooks of Sheffield - Sheffield known for metalwork #geography
-* catechism - religious instruction #miscellaneous-british-terms
+* catechism - religious instruction #idioms
 * caul - membrane sometimes covering newborn's head (believed lucky) #medical
-* Christian name - first/given name #church--religion-terms
-* closet - small room (not just cupboard) #household--property
+* Christian name - first/given name #ecclesiastical
+* closet - small room (not just cupboard) #settings
 * cork jackets - life preservers #maritime
 * cross-barred shirt - striped shirt #clothing
-* dear boy - affectionate address #childrens-terms
-* dovecote #household--property 
-* elbow-chair - armchair #household--property
-* fellow - man/boy #class-distinctions
+* dear boy - affectionate address #idioms
+* dovecote #settings 
+* elbow-chair - armchair #furniture
+* fellow - man/boy #class-distinction
 * five shillings - quarter pound #commerce
 * halfpence - half-pennies #commerce
 * Halloa! - hello #idioms
 * hamlet on the sea-coast - small coastal village #geography
 * jewellers' cotton - fine cotton wool (for ears) #medical
-* laudanum - opium tincture (medicine) #miscellaneous-british-terms
+* laudanum - opium tincture (medicine) #idioms
 * Lawk! - corruption of "Lord" (lower-class speech) #idioms
 * little glove - lady's glove #clothing
-* Master Davy - form of address for young boy #domestic-service
+* Master Davy - form of address for young boy #servants
 * mayn't - may not #idioms
 * meandering - wandering (literally and figuratively) #idioms
-* monumental tablets - memorial plaques #church--religion-terms
-* mourning weeds - mourning clothes #class-distinctions
-* nursery-governess - governess for young children #domestic-service
+* monumental tablets - memorial plaques #ecclesiastical
+* mourning weeds - mourning clothes #class-distinction
+* nursery-governess - governess for young children #servants
 * on board ship - aboard a ship #maritime
-* pew - church seating box #church--religion-terms
-* pigeon-house on a pole - dovecote #household--property
+* pew - church seating box #ecclesiastical
+* pigeon-house on a pole - dovecote #settings
 * poorly - poor health - unwell #medical
 * presently - soon (not currently) #idioms
-* pulpit - elevated platform for preaching #church--religion-terms
+* pulpit - elevated platform for preaching #ecclesiastical
 * reversion - right to future property/income #commerce
-* rookery - place where rooks nest (also name of house) #household--property
-* rooks'-nests - crow family nests #household--property
+* rookery - place where rooks nest (also name of house) #settings
+* rooks'-nests - crow family nests #settings
 * rough jacket - casual outdoor coat #clothing
-* shaver - young boy (slang) #class-distinctions
+* shaver - young boy (slang) #class-distinction
 * shawl - wrap/covering #clothing
 * sherry - fortified wine #dining
-* spyglass - telescope #miscellaneous-british-terms
-* store-room - storage room #household--property
-* Sunday neckcloth - formal Sunday tie/cravat #church--religion-terms
-* sweetbriar - type of rose #miscellaneous-british-terms
+* spyglass - telescope #idioms
+* store-room - storage room #settings
+* Sunday neckcloth - formal Sunday tie/cravat #ecclesiastical
+* sweetbriar - type of rose #idioms
 * take a pew
 * teaboard - tea tray #dining
 * tea - late afternoon/evening meal (not just the drink) #dining
-* the fender - fireplace guard #household--property
+* the fender - fireplace guard #furniture 
 * 'there by' - thereabouts (Scottish expression) #geography
 * tut, tut, tut! - expression of impatience #idioms
-* two pair of stairs' window - third-floor window (British floor counting) #household--property
+* two pair of stairs' window - third-floor window (British floor counting) #settings
 * twopence halfpenny - 2½ pence - see elvis costello #commerce
-* wax doll - insult (pretty but empty-headed) #class-distinctions
+* wax doll - insult (pretty but empty-headed) #class-distinction
 * widows weeds
-* work-box - sewing box #miscellaneous-british-terms
-* yard-measure - measuring tape #miscellaneous-british-terms
+* work-box - sewing box #idioms
+* yard-measure - measuring tape #idioms
