@@ -14,31 +14,32 @@
 - Aquiline nose
 * Area sneak (burglar through servants' entrance) #crime-and-punishment
 * Argyll and Bute - Viewed as remote Highlanders and islanders. Known for: whisky distilling, seafood, tourism, stunning scenery, and Gaelic culture. #counties
-- Aspidistra flying
-* aspidistra - _keep the aspisistra flying_, George Orwell #title 
-* Assizes (periodic criminal courts in counties) #crime-and-punishment
+* Aspidistra - _keep the aspisistra flying_, George Orwell #title 
+* Assizes, The - (periodic criminal courts in counties) #crime-and-punishment
 - aught / naught
-- A woman’s “work”
+- naught / aught
+- Work, A woman’s “work”, typically needlework or "patchwork"
+- Patchwork - quilting
 * Ayrshire - Stereotyped as Burns Country folk, agricultural. Known for: Robert Burns heritage, Ayrshire potatoes, dairy farming, Ayrshire bacon. #counties
-- Bags
+- Bags #clothing 
 - Bailiff, debtor’s prison
 - Banjolele - Jeeves 
 - Barouche #transportation 
-- barrister
 * Barrister (courtroom advocate) #crime-and-punishment
 * Barsetshire - Anthony Trollope's creation (1855 onwards), later revived by Angela Thirkell. West Country location, known for its cathedral city and clerical politics. #fictional-counties
 * Bar, The (barrier in court) #crime-and-punishment
-- beaver!
+- beaver! , craze in the 1920s, directed to men with beards, "Antic Hay"
 * Bencher (senior member of Inn of Court) #crime-and-punishment
 * Bench, The (judges' seat) #crime-and-punishment
-* Berkshire - Viewed as well-to-do and conservative, with royal connections. Known for: Royal Windsor, horse racing at Ascot, technology sector around Reading. #counties
-- Bestiary 
+* Berkshire - Viewed as well-to-do and conservative, with royal connections. Known for: Royal Windsor, horse racing at Ascot. Pronounced BARK-SHUR #counties #pronunciation 
+- Bestiary - feature of anglican church, #eclesiastical 
 - Best room 
-- Biggles
+- Biggles, fictional #character 
 * Birch, The - birching (corporal punishment) #crime-and-punishment
 * Biretta - Square cap with three or four ridges on top, sometimes with a pompom. Worn by Roman Catholic priests, particularly during Mass. #eclesiastical #hats
 * Blaenau Gwent - Stereotyped as Valleys folk, mining communities. Known for: coal mining heritage, male voice choirs, strong working-class identity. #counties
 - Blindfold in a pea souper
+- Pea Souper, dense fog
 - Bloater paste 
 - Bloombury
 - Blotting pad (source of clues)
