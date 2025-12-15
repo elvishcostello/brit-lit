@@ -1,4 +1,5 @@
 
+
 - 1st class ticket - etc
 * Aberdeenshire/Aberdeen City - Stereotyped as dour, thrifty "Teuchters" (rural folk) or oil-rich. Known for: North Sea oil and gas, granite (the "Granite City"), fishing, Aberdeen Angus cattle. #counties
 - Abominable crime of buggery - Oscar Wilde, Ernest Boulton
@@ -26,12 +27,15 @@
 - barrister
 * Barrister (courtroom advocate) #crime-and-punishment
 * Barsetshire - Anthony Trollope's creation (1855 onwards), later revived by Angela Thirkell. West Country location, known for its cathedral city and clerical politics. #fictional-counties
+* Bar, The (barrier in court) #crime-and-punishment
 - beaver!
 * Bencher (senior member of Inn of Court) #crime-and-punishment
+* Bench, The (judges' seat) #crime-and-punishment
 * Berkshire - Viewed as well-to-do and conservative, with royal connections. Known for: Royal Windsor, horse racing at Ascot, technology sector around Reading. #counties
 - Bestiary 
 - Best room 
 - Biggles
+* Birch, The - birching (corporal punishment) #crime-and-punishment
 * Biretta - Square cap with three or four ridges on top, sometimes with a pompom. Worn by Roman Catholic priests, particularly during Mass. #eclesiastical #hats
 * Blaenau Gwent - Stereotyped as Valleys folk, mining communities. Known for: coal mining heritage, male voice choirs, strong working-class identity. #counties
 - Blindfold in a pea souper
@@ -97,6 +101,7 @@
 - Derby - #pronunciation
 * Derbyshire - Viewed as down-to-earth northerners with rural charm. Known for: Peak District, Bakewell pudding, Derby porcelain, limestone quarrying. #counties
 * Devon - Stereotyped as farmers and retirees enjoying cream teas. Known for: cream teas (cream first!), cider, farming, tourism, and having a strong rural identity. #counties
+* Dock, The (where accused stands) #crime-and-punishment
 - Dog cart etc
 - Don
 * Dorset - Seen as genteel, rural, and traditional. Known for: Jurassic Coast fossils, Thomas Hardy connections, Blue Vinny cheese, and being very "olde worlde." #counties
@@ -104,6 +109,7 @@
 * drag / coach - #transportation
 - Draper 
 - Dray horse 
+* Drop, The (gallows trapdoor) #crime-and-punishment
 * Dumfries and Galloway - Viewed as rural, agricultural southerners. Known for: farming, Robert Burns connections, dairy, and being Scotland's "forgotten corner." #counties
 * Dundee - Stereotyped as working-class with a strong accent. Known for: the "three Js" (jute, jam, and journalism), video games industry, Dundee cake. #counties
 * Durham - Viewed as proud mining communities with strong traditions. Known for: coal mining heritage, Durham Cathedral, the Prince Bishops' history. #counties
@@ -121,6 +127,7 @@
 - Fetch whiskey from the pub
 * Fife - Called "the Kingdom" - seen as proud, distinctive, working-class. Known for: coal mining heritage, fishing villages, golf (St Andrews), and saying they're from "the Kingdom." #counties
 - Five bob / shillings
+- Five towns, The - Arnold Bennet
 * Flat Cap/Cloth Cap - Soft, rounded cap with small brim. Working-class men's everyday wear throughout both centuries. #hats
 * Fleet Prison (debtors') #crime-and-punishment
 - Fleet st 
@@ -160,6 +167,7 @@
 - Hoist on own petard 
 * Holloway (women's prison) #crime-and-punishment
 * Homburg - Felt hat with center crease and upturned brim. Formal daytime wear, popular from the 1890s. #hats
+* Hulks, The - (prison ships) #crime-and-punishment
 - “In the late 30s”
 - In the picture
 * Inverclyde - Seen as shipbuilding communities, working-class. Known for: shipbuilding heritage (Greenock), sugar refining, maritime history. #counties
@@ -190,6 +198,7 @@
 - Margate - holiday spot, mr fincheley discovers his england
 - Market day
 * Marlborough Street (magistrates court) #crime-and-punishment
+* Marshalsea, The (debtors' prison - Dickens's father was there) #crime-and-punishment
 - Mater / pater 
 * Merthyr Tydfil - Stereotyped as proud Valleys folk, industrial heritage. Known for: iron and steel heritage, being the heart of industrial Wales, strong community identity. #counties
 - Mess jacket
@@ -209,6 +218,7 @@
 * Newgate (already mentioned - most notorious, demolished 1902) #crime-and-punishment
 * Newport - Stereotyped as industrial, working-class, overlooked. Known for: steel, docks, being between Cardiff and Bristol, Chartist uprising. #counties
 * Nicked/pinched (arrested) #crime-and-punishment
+* Nick, The - (police station; also "to nick" = arrest) #crime-and-punishment
 - Nightcap 
 * Norfolk Island (harshest penal colony) #crime-and-punishment
 * Norfolk - Stereotyped as rural, insular "Norfolk dumplings" with distinctive accent. Known for: farming, Broads tourism, turkeys, fishing, and mustard (Colman's). #counties
@@ -216,6 +226,7 @@
 * Northumberland - Seen as hardy, independent border people. Known for: castles, Hadrian's Wall, wild landscapes, Northumberland sausages. #counties
 * Nottinghamshire - Stereotyped as Robin Hood folk, mining communities. Known for: coal mining heritage, Nottingham lace, Sherwood Forest, Byron. #counties
 - Number 10 downing st
+- Old Adam, The
 - Old harry
 - Old ‘ma’ thingummy
 - Omnibus
@@ -253,6 +264,7 @@
 - Quai hi!
 - Queer st
 - Qui hai!
+- Raj, The
 * Rampton (criminal lunatic asylum) #crime-and-punishment
 - Reading Gaol - c.33 Wilde, ballad of 
 * Reading Gaol (Oscar Wilde imprisoned there) #crime-and-punishment
@@ -303,18 +315,6 @@
 - Tea shop
 - Temple Bar - _Temple Bar was the principal ceremonial entrance to the City of London_ from the City of Westminster.
 - Testatrix
-* The bar (barrier in court) #crime-and-punishment
-* The bench (judges' seat) #crime-and-punishment
-* The birch/birching (corporal punishment) #crime-and-punishment
-* The dock (where accused stands) #crime-and-punishment
-* The drop (gallows trapdoor) #crime-and-punishment
-- The five towns
-* The Hulks (prison ships) #crime-and-punishment
-* The Marshalsea (debtors' prison - Dickens's father was there) #crime-and-punishment
-* The nick (police station; also "to nick" = arrest) #crime-and-punishment
-- The old Adam 
-- The Raj
-- The tube
 - Tiffin
 - Tisane
 * Top Hat - Tall, cylindrical formal hat worn for evening dress, weddings, and formal daytime occasions. Essential for gentlemen in Victorian and Edwardian society. #hats 
@@ -323,6 +323,7 @@
 * Treadmill (prison punishment) #crime-and-punishment
 * Trilby - Soft felt hat with narrow brim and indented crown. Less formal alternative to the homburg, popular in the 20th century. #hats
 * Trumptonshire - From 1960s children's TV (Camberwick Green, Trumpton, Chigley). Idyllic, innocent stop-motion world. #fictional-counties
+- Tube, The
 - Tweeds
 - Two seater
 * Tyburn (historic execution site) #crime-and-punishment
