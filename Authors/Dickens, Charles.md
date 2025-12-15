@@ -1,5 +1,10 @@
 #author
 * Mr Boz - [[Dickens, Charles]]  pen name
+## characters
+- Jarndyce and Jarndyce
+- [10 beloved characters](https://www.stylist.co.uk/people/top-10-dickens-characters/15444)
+- 
+
 ## novels
 * _The Pickwick Papers_ (1836), 
 * _Oliver Twist_ (1837–9)

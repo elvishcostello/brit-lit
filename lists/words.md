@@ -1,17 +1,17 @@
 
 
 
-- 1st class ticket - etc
+- 1st class ticket - etc #class-distinction 
 * Aberdeenshire/Aberdeen City - Stereotyped as dour, thrifty "Teuchters" (rural folk) or oil-rich. Known for: North Sea oil and gas, granite (the "Granite City"), fishing, Aberdeen Angus cattle. #geography
 - Abominable crime of buggery - Oscar Wilde, Ernest Boulton
-- According to Crocker
+- According to Crocker #idioms 
 - Advertisement - favoured plot device in Wimsey and Holmes
-- Agony column
-- Albert strap
-- A living
+- Agony column - beloved of Sherlock Holmes, Plot device for Wimsey
+- Albert strap 
+- A living #eclesiastical 
 * Anglesey (Ynys Môn) - Seen as island farmers, Welsh-speaking. Known for: farming, being "Mam Cymru" (Mother of Wales) for grain, tourism, Menai bridges. #geography
 * Angus - Seen as agricultural and down-to-earth. Known for: Arbroath smokies (smoked haddock), farming, soft fruit, and Angus beef. #geography
-- Anti-clockwise #clothing 
+- Anti-clockwise #idioms
 - Aquiline nose
 * Area sneak (burglar through servants' entrance) #legal
 * Argyll and Bute - Viewed as remote Highlanders and islanders. Known for: whisky distilling, seafood, tourism, stunning scenery, and Gaelic culture. #geography
@@ -40,7 +40,7 @@
 - Bloater paste 
 - Bloombury
 - Blotting pad (source of clues)
-- blunderbuss
+- Blunderbuss
 * Boater - Flat-topped straw hat with ribbon band. Summer wear, associated with boating, picnics, and casual warm-weather occasions from the 1880s-1920s. #clothing
 * *Bonnet - Close-fitting hat tied under the chin with ribbons. Everyday wear for women throughout the 19th century, particularly respectable married women. #clothing
 * Borders (Scottish) - Seen as independent-minded, rugby-loving. Known for: wool and textile mills, Common Ridings, rugby, and the ballad tradition. #geography
@@ -65,15 +65,15 @@
 * Cardiff/Vale of Glamorgan - Seen as cosmopolitan, "not really Welsh" by some. Known for: capital city, rugby (Principality Stadium), coal export heritage, media, government. #geography
 * Carmarthenshire - Viewed as rural, Welsh-speaking farmers. Known for: farming, Welsh language, Dylan Thomas connections, being very traditionally Welsh. #geography
 * Ceredigion - Stereotyped as "Cardis" - thrifty, Welsh-speaking sheep farmers. Known for: sheep farming, Welsh language stronghold, Aberystwyth University, being very rural. #geography
-- Chaise and 4
+- Chaise and 4 #transportation 
 * Chambers (barrister's office) #legal
-- Chancel 
-- Chantry
+- Chancel #eclesiastical 
+- Chantry #eclesiastical 
 * Chasubel #clothing #eclesiastical 
 * Cheshire - Viewed as prosperous "Cheshire set" - footballers' wives territory. Known for: Cheshire cheese, salt mining, wealthy suburbs of Manchester. #geography
-- chinoiserie
-- Christopher wren
-- Chuffed
+- Chinoiserie #furniture 
+- Christopher Wren #famous-person
+- Chuffed #idioms 
 - Claridges 
 - Clark / clerk #pronunciation 
 * Clerk (barrister's clerk - manages cases/fees) #legal
@@ -84,16 +84,15 @@
 * Conwy - Seen as tourist-oriented, castle country. Known for: castles (Conwy, Caernarfon), slate quarrying, tourism, coastal resorts. #geography
 - cook - always in a temper
 * Cornwall - Stereotyped as laid-back, pasty-eating surfers with strong regional identity. Known for: pasties, cream teas, tin mining heritage, tourism, fishing, and rugby. #geography
-- Council flats
+- Council Flats #class-distinction 
 - Count 
 * Cracksman (safecracker) #legal
 * Cumbria - Seen as hardy, outdoorsy fell-walkers. Known for: Lake District tourism, sheep farming, Kendal mint cake, pencil making (Derwent). #geography
 - curiouser and curiouser 
 * Dartmoor (remote moorland prison) #legal
-- Deal table 
-* deal table
+- Deal table #furniture 
 - Debretts, peeeage / crockford
-- Deed poll
+- Deed poll #legal 
 * Deerstalker - Tweed cap with front and back brims and ear flaps. Country and hunting wear, famously associated with Sherlock Holmes. #clothing
 * Denbighshire - Viewed as rural north Walians, agricultural. Known for: farming, tourism, Welsh language areas, market towns. #geography
 * Denton - Not a county but the fictional town from "A Touch of Frost," worth mentioning as a quintessentially grim British setting. #geography
@@ -102,14 +101,14 @@
 * Devon - Stereotyped as farmers and retirees enjoying cream teas. Known for: cream teas (cream first!), cider, farming, tourism, and having a strong rural identity. #geography
 * Dickey #clothing 
 * Dock, The (where accused stands) #legal
-- Dog cart etc
+- Dog cart #transportation 
 * Dog collar #clothing #eclesiastical 
-- Don
+- Don #education
 * Dorset - Seen as genteel, rural, and traditional. Known for: Jurassic Coast fossils, Thomas Hardy connections, Blue Vinny cheese, and being very "olde worlde." #geography
 - Dowager / duchess
 * drag / coach - #transportation
-- Draper 
-- Dray horse 
+- Draper #occupations 
+- Dray horse #transportation 
 * Drop, The (gallows trapdoor) #legal
 * Dumfries and Galloway - Viewed as rural, agricultural southerners. Known for: farming, Robert Burns connections, dairy, and being Scotland's "forgotten corner." #geography
 * Dundee - Stereotyped as working-class with a strong accent. Known for: the "three Js" (jute, jam, and journalism), video games industry, Dundee cake. #geography
@@ -121,41 +120,40 @@
 * Essex - Stereotyped (often unfairly) as flashy, fake-tanned, and materialistic - "Essex girls/boys." Known for: being commuter territory, market towns, and proximity to London. #geography
 - Estate houses
 * Execution Dock (Wapping - for pirates/maritime crimes) #legal
-- Fags
+- Fags #idioms 
 - Fakir
 * Falkirk - Stereotyped as industrial, working-class. Known for: the Kelpies, Falkirk Wheel, industrial heritage, proximity to central belt. #geography
 * Fence (receiver of stolen goods) #legal
 - Fetch whiskey from the pub
 * Fichu #clothing 
 * Fife - Called "the Kingdom" - seen as proud, distinctive, working-class. Known for: coal mining heritage, fishing villages, golf (St Andrews), and saying they're from "the Kingdom." #geography
-- Five bob / shillings
+- Five bob / shillings #commerce 
 - Five towns, The - Arnold Bennet
 * Flat Cap/Cloth Cap - Soft, rounded cap with small brim. Working-class men's everyday wear throughout both centuries. #clothing
 * Fleet Prison (debtors') #legal
-- Fleet st 
+- Fleet st #geography 
 * Flintshire - Stereotyped as anglicized, not "properly Welsh." Known for: manufacturing, proximity to England, having a foot in both camps. #geography
 - Floater / bloomer
 - Fly - #transportation 
-- Fob
-* fob #clothing 
+- Fob #clothing 
 - Fortnum and mason
-- foundling
-- Game not worth the candle
-- Gaol
+- Foundling - Tom Jones a Foundling #book
+- Game not worth the candle #idiom #holmes
+- Gaol #legal
 - Gaspers
-- Gentleman’s gentleman
-- Gentlemen, it’s time
-* gilet #clothing 
-- Gin palace
+- Gentleman’s gentleman #occupations #class-distinction 
+- Gentlemen, it’s time #idiom 
+* Gilet #clothing 
+- Gin palace #settings
 * Glasgow/Greater Glasgow - Stereotyped as tough, friendly "hardmen" with sharp wit. Known for: shipbuilding heritage, "Glasgow kiss," engineering, deep-fried Mars bars, and being Scotland's largest city. #geography
 * Gloucestershire - Seen as rural, well-spoken West Country folk. Known for: Cotswolds tourism, Double Gloucester cheese, cheese rolling, cider. #geography
-* gloves #clothing 
-- Goon show
-- Goose flesh
-- Governor / guv
+* Gloves #clothing 
+- Goon Show
+- Goose Flesh - pimples
+- Governor / Guv
 * Grantshire - Various crime novels and TV shows have used this generic Midlands county. #geography
 - Grub st?
-- Guy fawkes
+- Guy Fawkes
 * Gwynedd - Seen as the "most Welsh" - Gaelic heartland, nationalist. Known for: Snowdonia, slate (Blaenau Ffestiniog), Welsh language bastion, Plaid Cymru stronghold. #geography
 * Hampshire - Viewed as naval, military, and relatively prosperous. Known for: Royal Navy (Portsmouth), New Forest, watercress, Jane Austen. #geography
 * Hard labour #legal
@@ -167,19 +165,18 @@
 * Hertfordshire - Seen as affluent commuter-belt families. Known for: being dormitory towns for London, film studios, new towns like Welwyn Garden City. #geography
 * Highlands - Viewed as romantic Gaelic-speaking crofters. Known for: whisky, tourism, crofting, Highland cattle, Loch Ness, and spectacular scenery. #geography
 - High st
-- Hobbled
-- Hock
+- Hobbled - purity of the turf
+- Hock - port, sherry?
 - Hoist on own petard 
 * Holloway (women's prison) #legal
 * Homburg - Felt hat with center crease and upturned brim. Formal daytime wear, popular from the 1890s. #clothing
 * Hulks, The - (prison ships) #legal
-- “In the late 30s”
-- In the picture
+- “In the late 30s” #idiom 
+- In the picture #idiom 
 * Inverclyde - Seen as shipbuilding communities, working-class. Known for: shipbuilding heritage (Greenock), sugar refining, maritime history. #geography
-- Inverness cloak
-- Jaffa Cakes
+- Inverness Cloak #clothing 
+- Jaffa Cakes #food
 - Jalousies
-- Jarndyce and Jarndyce
 - Jodphurs 
 - Judge measured for a black cap
 * KC/QC (King's/Queen's Counsel - senior barrister who "takes silk") #legal
@@ -305,7 +302,7 @@
 * Solicitor (general legal work, prepares cases) #legal
 - Somerset house - wills
 * Somerset - Viewed as cider-drinking farmers with rural charm. Known for: cider, Cheddar cheese, Glastonbury Festival, levels and wetlands. #geography
-- Spats
+- Spats #clothing , Wodehouse
 * spencer #clothing 
 - Spiritualism
 - Spot of bother
@@ -344,8 +341,7 @@
 - Vestry 
 - Vicarage, rectory
 - Viscount
-- Waistcoat
-* waistcoat #clothing 
+- Waistcoat #clothing 
 * Wandsworth #legal
 * Warwickshire - Viewed as prosperous Midlanders with cultural heritage. Known for: Shakespeare (Stratford), Warwick Castle, market gardening. #geography
 - Wee dram
