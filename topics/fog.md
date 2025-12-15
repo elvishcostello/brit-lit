@@ -1,4 +1,4 @@
-[[London Particular]] is the main alternative—and what a fitting name! It comes from [[Charles Dickens]]' [[Bleak House]] where William Guppy explains to Esther Summerson: "This is a London particular…A fog, miss." The term originally described things particular to London (like a type of Madeira wine), but became synonymous with the thick fog itself. The soup by that name—thick pea and ham—got its moniker from the fog, not the other way around.
+[[London Particular]] is the main alternative—and what a fitting name! It comes from [[Dickens, Charles]]' [[Bleak House]] where William Guppy explains to Esther Summerson: "This is a London particular…A fog, miss." The term originally described things particular to London (like a type of Madeira wine), but became synonymous with the thick fog itself. The soup by that name—thick pea and ham—got its moniker from the fog, not the other way around.
 
 You'll also see these fogs called "black fog" or "killer fog" in references to the deadly smogs caused by coal smoke and sulfur dioxide. London itself earned nicknames like "The Big Smoke" or "The Old Smoke" from these persistent fogs.
 

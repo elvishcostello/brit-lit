@@ -14,7 +14,7 @@
 - Aquiline nose
 * Area sneak (burglar through servants' entrance) #crime-and-punishment
 * Argyll and Bute - Viewed as remote Highlanders and islanders. Known for: whisky distilling, seafood, tourism, stunning scenery, and Gaelic culture. #counties
-* Aspidistra - _keep the aspisistra flying_, George Orwell #title 
+* Aspidistra - _keep the aspisistra flying_, George Orwell #novel 
 * Assizes, The - (periodic criminal courts in counties) #crime-and-punishment
 - aught / naught
 - naught / aught
@@ -211,7 +211,7 @@
 * Monmouthshire - Viewed as ambiguously Welsh/English, posh borders. Known for: farming, historically disputed whether in Wales or England, prosperous. #counties
 - Monocle
 * Moray - Viewed as whisky makers and fishing folk. Known for: Speyside whisky trail (half of Scotland's distilleries), fishing, RAF bases. #counties
-- More than my job is worth #cliche
+- More than my job is worth #idioms
 - Morning nosebag
 - MP / member
 - Mutton
