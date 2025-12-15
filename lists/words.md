@@ -109,6 +109,7 @@
 * Durham - Viewed as proud mining communities with strong traditions. Known for: coal mining heritage, Durham Cathedral, the Prince Bishops' history. #counties
 * East Lothian - Seen as prosperous, golf-playing commuters. Known for: golf courses, farming, beaches, proximity to Edinburgh. #counties
 * Edinburgh/Midlothian - Viewed as posh, cultured, "fur coat and nae knickers." Known for: financial services, festivals (Fringe, Hogmanay), tourism, whisky, shortbread. #counties
+* Elevenses
 - Escritoire - hidden compartment 
 * Essex - Stereotyped (often unfairly) as flashy, fake-tanned, and materialistic - "Essex girls/boys." Known for: being commuter territory, market towns, and proximity to London. #counties
 - Estate houses
