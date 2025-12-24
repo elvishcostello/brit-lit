@@ -1,4 +1,4 @@
-
+#book 
 
 * accomplished - well-educated in ladylike arts #class-distinction
 * acquired by trade - earned through business (vs. inherited) #commerce

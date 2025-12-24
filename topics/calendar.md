@@ -125,6 +125,7 @@ This calendar governed the entire rhythm of upper-class life in British novels. 
 **REGIONAL/LOCAL TRADITIONS:**
 
 - **Wassailing** - blessing apple trees (January)
+- Rogation, Rogationtide
 - **Beating the Bounds** - Rogationtide, marking parish boundaries
 - **Well dressing** - decorating springs (Peak District especially)
 - **Cheese rolling** - Gloucestershire, Whit Monday

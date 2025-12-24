@@ -1,3 +1,5 @@
+#politics
+
 Your list captures some major figures, though it's a bit Churchill-heavy for the 20th century! Here are politicians who frequently appear in or get referenced in British novels:
 
 **19th Century:**

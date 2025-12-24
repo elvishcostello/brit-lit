@@ -45,11 +45,11 @@
 * numbers - serialized installments
 * paid a call - made a formal visit #customs
 * paid the most gallant attention - showed chivalrous attention #idioms
-* parish church - local Anglican church #ecclesiastical
+* parish church - local Anglican church #eclesiastical
 * parlormaid - maid who serves in parlor/drawing room #servants
 * pattens - overshoes with wooden soles #clothing
 * petticoat - skirt/underskirt #clothing
-* prayer-book - Book of Common Prayer #ecclesiastical
+* prayer-book - Book of Common Prayer #eclesiastical
 * pray - please (formal) #idioms
 * Preference - card game #social-practices
 * presently - soon (not "currently") #idioms
@@ -71,7 +71,7 @@
 * tea-trays - trays for tea service #dining
 * the moors - moorland for hunting #idioms
 * the poor - lower classes #class-distinction
-* the responses - liturgical responses #ecclesiastical
+* the responses - liturgical responses #eclesiastical
 * the Spartans - comparison to Spartans (hiding hardship) #class-distinction
 * threepenny points - card game stakes (three pence) #commerce
 * vulgar - lower class/lacking refinement (tremendous word in Cranford!) #class-distinction
