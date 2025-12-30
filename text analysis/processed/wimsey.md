@@ -9,7 +9,7 @@
 * deuced - very/extremely ("deuced awkward," "deuced queer") #idioms
 * dinner-jacket - tuxedo (American: "tux") #clothing
 * don't you know - upper-class verbal filler #idioms
-* electric torch - flashlight #objects
+* electric torch - flashlight
 * gamekeeper - estate worker who manages game/prevents poaching #occupations
 * gun-room - room for storing hunting weapons #settings
 * had a row - had an argument #idioms
