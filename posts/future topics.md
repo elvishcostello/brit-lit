@@ -1,34 +1,6 @@
-- Pounds
-- Guinies (21 shillings)
-- Crown
-- Half a crown
-- Shillings
-- Pence
-- Pennies
-- Coppers
-- Thruppence
-- Tuppence
-- tuppeny ha'penny
-- ha’penny
-- Joey
-- Quid 
-- Bob
+* livings
+* entailment
 
-### historical exchange rate
-I'll search for historical data on the British pound's value expressed in today's dollars, accounting for both exchange rates and inflation over time.Based on the UK inflation data and current exchange rates, here's what £1 (one British pound) from each of those years would be worth in 2025 US dollars:
-
-|Year|Value in 2025 USD|
-|---|---|
-|1800|~$202|
-|1825|~$194|
-|1850|~$224|
-|1875|~$200|
-|1900|~$229|
-|1925|~$108|
-|1950|~$63|
-|1975|~$18|
-|2000|~$3|
-|2025|~$1.31|
 
 **How this was calculated:** I used UK inflation multipliers showing how much £1 from each historical year would be worth in 2025 pounds, then converted to USD using the current exchange rate of approximately $1.31 per pound.
 
