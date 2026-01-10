@@ -15,3 +15,4 @@ Note: These figures represent the purchasing power of £1 adjusted for inflation
 
 ### money topics
 - Settlements, jointures, pin money, allowances
+

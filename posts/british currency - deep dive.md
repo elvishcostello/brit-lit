@@ -1,3 +1,5 @@
+_Now there is no doubt about it, a **farthing** is not a very valuable coin. It is only worth, how much? - the nine hundred and sixtieth part of a **sovereign**. But if you know that it is one, you do not expect more from it than it can perform, whereas if you take it for real gold you will be grievously disappointed when you come to ask golden service from it._ --   
+A bright farthing - By [Mrs. Sydney Mary SITWELL](https://www.google.com/search?sca_esv=a8d116dd7e3648b9&hl=en&sxsrf=AE3TifMQ6GIG48m_b2ao2x-Y-7daTNNLxg:1767562546597&q=inauthor:%22Mrs.+Sydney+Mary+SITWELL%22&udm=36) · 1885
 
 British Currency was rationalized in 1971. Prior to this point their coinage was a delightful example of British oddness. Here's a table clarifying each of the denominations:
 
@@ -6,7 +8,7 @@ British Currency was rationalized in 1971. Prior to this point their coinage was
 - **Farthing**: ¼d (~0.1p) - Smallest coin; discontinued 1960
 - **Ha'penny (halfpenny)**: ½d (~0.2p) - Also called "coppers"
 - **Penny**: 1d (~0.4p) - Copper coins
-- **Tuppence (twopence)**: 2d (~0.8p)
+- **Tuppence (twopence)**: 2d (~0.8p) - c.f. Tommy & Tuppence
 - **Tuppenny ha'penny**: 2½d (~1p) - Often used dismissively to mean worthless
 - **Thruppence (threepence)**: 3d (~1.25p) - "Thruppenny bit"
 - **Groat** was a silver coin worth four pence (4d).
@@ -16,7 +18,8 @@ British Currency was rationalized in 1971. Prior to this point their coinage was
 - **Florin**: 24d = 2s (~10p) - Two shilling coin
 - **Half crown**: 30d = 2s 6d or 2/6 (~12.5p) - Popular coin
 - **Crown**: 60d = 5s (~25p) - Rarely circulated; ceremonial
-- **Pound / Quid (slang)**: 240d = £1 = 20s - "Quids" plural
+- **Pound** - £1
+- **Quid** (slang)**: 240d = £1 = 20s - "Quids" plural
 - **Guinea**: 252d = £1 1s or 21s (~£1.05) - Used for professional fees and luxury items
 - **Sovereign**: 240d = £1 - Gold coin
 - **Tenner**: £10 note (still used)
